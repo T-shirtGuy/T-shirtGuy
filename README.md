@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T-shirtGuy
-- 👀 I’m interested in the application of remote sensing
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on smart city
+- 👀 I’m interested in the application of computer vision in GIS
+- 🌱 I’m currently learning machine learning and urban palnning
+- 💞️ I’m looking to collaborate on air quality management in cities
 - 📫 How to reach me ...
 
 <!---
